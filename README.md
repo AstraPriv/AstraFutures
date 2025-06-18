@@ -12,7 +12,7 @@ Get real-time trading signals delivered directly to your phone via SMS.
 ### Step-by-Step Opt-In Process
 
 1. **Join the Trading Channel**
-   - Ensure your membership is active by joining the private telegram group channel.
+   - Ensure your membership is active by joining the private telegram group channel. Invite links are sent AFTER membership fee is paid. 
    - Start @AstraFutures_bot on telegram by DMing the bot and clicking "Start" 
    - The system verifies your membership before allowing SMS registration
 
