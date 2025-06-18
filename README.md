@@ -5,14 +5,15 @@ Get real-time trading signals delivered directly to your phone via SMS.
 ## 🔔 How to Opt-In to SMS Notifications
 
 ### Prerequisites
-- Must be a member of the Astra Futures trading channel
+- Must be a paid subscribers of Astra Futures trading group. Visit AstraBlock.io to subscribe. 
 - Have access to the Telegram bot
 - Valid phone number with SMS capability
 
 ### Step-by-Step Opt-In Process
 
 1. **Join the Trading Channel**
-   - Ensure you're an active member of the Astra Futures channel
+   - Ensure your membership is active by joining the private telegram group channel.
+   - Start @AstraFutures_bot on telegram by DMing the bot and clicking "Start" 
    - The system verifies your membership before allowing SMS registration
 
 2. **Start SMS Registration**
